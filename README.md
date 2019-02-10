@@ -17,4 +17,6 @@ This project will help you to design and build a marriage registration certifica
 
 ### Introduction to Hyperledger Fabric and related applications
 
+![Platform diagram](https://github.com/abdussamad007/hyperledger-marriage-registration/blob/master/Hyperledger_platform_diagram.png)
 
+Deployment Environment overview for Hyperledger
